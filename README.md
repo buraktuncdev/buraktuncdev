@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buraktuncdev" alt="buraktuncdev" /> </p>
 
-- 🔭 I’m currently working on **Swift, Spring Boot Projects**
+- 🔭 I’m currently working on **Swift, Spring Boot, Microservice Architecture**
 
 - 🌱 I’m currently learning **Vapor, SwiftUI**
 
 - 👨‍💻 All of my projects are available at [https://buraktuncdev.com](https://buraktuncdev.com)
 
-- 💬 Ask me about **iOS Development**
+- 💬 Ask me about **iOS, Enterprise Java Development**
 
 - 📫 How to reach me **buraktuncdev@gmail.com**
 
