@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Burak</h1>
-<h3 align="center">A passionate software developer from Turkey</h3>
+<h1 align="center">I'm Burak</h1>
+<h3 align="center">Software Developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buraktuncdev" alt="buraktuncdev" /> </p>
 
