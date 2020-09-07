@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://buraktuncdev.com](https://buraktuncdev.com)
 
-- 💬 Ask me about **iOS, Enterprise Java Development**
+- 💬 Ask me about **iOS, Java Development**
 
 - 📫 How to reach me **buraktuncdev@gmail.com**
 
