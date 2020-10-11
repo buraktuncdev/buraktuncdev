@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buraktuncdev" alt="buraktuncdev" /> </p>
 
-- 🔭 I’m currently working on **Swift, Spring Boot, Microservice Architecture**
+- 🔭 I’m currently working on **Swift, Spring Boot, Angular, Microservice Architecture**
 
 - 🌱 I’m currently learning **Vapor, SwiftUI**
 
