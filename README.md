@@ -1,5 +1,5 @@
 <h1 align="center">Burak Tunç</h1>
-<h3 align="center">Software Developer from Turkey</h3>
+<h3 align="center">Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buraktuncdev" alt="buraktuncdev" /> </p>
 
