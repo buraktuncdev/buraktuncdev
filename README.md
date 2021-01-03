@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Spring Boot, Microservice Architecture, Native iOS Applications**
 
-- 💬 Ask me about **Software Development**
-
 - 📫 How to reach me **buraktuncdev@gmail.com**
 
 <p align="center">
