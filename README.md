@@ -1,8 +1,6 @@
 <h1 align="center">Burak Tunç</h1>
 <h3 align="center">Software Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=buraktuncdev" alt="buraktuncdev" /> </p>
-
 - 🔭 I’m currently working on **Spring Boot, Microservice Architecture, Native iOS Applications**
 
 - 💬 Ask me about **Software Development**
