@@ -1,6 +1,8 @@
 <h1 align="center">Burak Tunç</h1>
 <h3 align="center">Software Developer</h3>
 
+![](https://komarev.com/ghpvc/?username=buraktuncdev&style=flat-square)
+
 - 🔭 I’m currently working on **Spring Boot, Microservice Architecture, Native iOS Applications**
 
 - 📫 How to reach me **buraktuncdev@gmail.com**
