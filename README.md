@@ -3,10 +3,10 @@
 
 
 <div align="center">
-  <p>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buraktuncdev)](https://github.com/buraktuncdev/github-readme-stats)</p>
-
 <a href="https://twitter.com/buraktuncdev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="buraktuncdev" height="60" width="60" /></a>
 <a href="https://linkedin.com/in/buraktunc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="buraktunc" height="60" width="60" /></a>
 <a href="https://instagram.com/buraktuncdev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="buraktuncdev" height="60" width="60" /></a>
 </p>
 </div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buraktuncdev)](https://github.com/buraktuncdev/github-readme-stats)
