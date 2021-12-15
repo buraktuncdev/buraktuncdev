@@ -9,4 +9,5 @@
 </p>
 </div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buraktuncdev)](https://github.com/buraktuncdev/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buraktuncdev)](https://github.com/buraktuncdev/github-readme-stats)
+ -->
