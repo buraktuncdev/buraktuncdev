@@ -11,5 +11,5 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buraktuncdev)](https://github.com/buraktuncdev/github-readme-stats)
  -->
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=buraktuncdev)](https://github.com/buraktuncdev/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=buraktuncdev&count_private=true)](https://github.com/buraktuncdev/github-readme-stats)
 
